@@ -6,6 +6,10 @@ Développé par Léonard Bettcher (Réseau), Yanis Blothiaux (Algorithme), Aissa
 
 Scrabble U-Bordeaux is a Java 21 project that implements the Scrabble game in CLI and GUI, with local multiplayer, network multiplayer, AI opponents, save/load, contest mode, and language selection.
 
+<p align="center">
+     <img src="docs/scrabble.png" width="100%">
+</p>
+
 ## Prerequisites
 
 - JDK 21
